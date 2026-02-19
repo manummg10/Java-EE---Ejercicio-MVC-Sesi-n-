@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="jdbc/festivaldb2" auth="Container"
+              type="javax.sql.DataSource"
+              maxTotal="15" maxIdle="3" maxWaitMillis="5000"
+              username="root" password="root"
+              driverClassName="com.mysql.cj.jdbc.Driver"
+              url="jdbc:mysql://localhost:3306/festivaldb2" />
+</Context>
+
