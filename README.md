@@ -179,14 +179,3 @@ Uso académico / educativo
 
 ---
 
-# 💡 Si quieres subirlo más profesional aún…
-
-Te puedo preparar:
-
-- 🔥 Versión optimizada para portfolio
-- 📸 README con imágenes y diagramas MVC
-- 📊 Diagrama de arquitectura
-- 🧠 Explicación técnica para entrevistas
-- 🌟 Versión mejorada con mejoras recomendadas
-
-Solo dime 😉
