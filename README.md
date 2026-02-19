@@ -1,4 +1,4 @@
-# Java-EE---Ejercicio-MVC-Sesi-n-
+# Java EE - Ejercicio (MVC + Sesión)
 Sistema web desarrollado en Java EE siguiendo el patrón MVC con gestión de sesiones, autenticación de usuarios y búsqueda de eventos conectada a MySQL mediante DataSource.
 
 # 🎟️ Sistema de Gestión de Eventos - Java EE (MVC + Sesión)
